@@ -2,8 +2,10 @@
 
 
 
-<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/4c2a0cc4-8bfc-472e-85b0-1753256630e1" />
-<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/11a0a5e5-4547-4c29-8cdb-72cbd460b59b" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/a40d58f9-dda9-40b7-809e-0c29707ab977" 
+<img width="940" height="536" alt="image" src="https://github.com/user-attachments/assets/1b8875eb-9815-47eb-b39f-22cf2e800559" />
+
+
 
 
 # Q&A Chatbot with Ollama + Gradio
